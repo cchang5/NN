@@ -1,0 +1,4 @@
+./data/NN_LC.mpi700.32c64.x100+100.hdf5 filter=lfs diff=lfs merge=lfs -text
+./data/NN_POINT.mpi700.32c64.x000+100.hdf5 filter=lfs diff=lfs merge=lfs -text
+./data/NN_GAUSS.mpi700.32c64.x000+100.hdf5 filter=lfs diff=lfs merge=lfs -text
+./data/NN_LC.mpi700.32c64.x000+100.hdf5 filter=lfs diff=lfs merge=lfs -text
